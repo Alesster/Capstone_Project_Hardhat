@@ -19,5 +19,6 @@ typechain-types
 
 #Hardhat files
 cache
-artifacts
+artifacts/@openzppelin
+artifacts/build-info
 
